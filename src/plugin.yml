@@ -1,0 +1,10 @@
+name: SimplyKill
+version: 1.0
+main: nya.clockwork04.SimplyKill.Main
+author: Snoopie
+description: Sudden Death, Sudden Fun!
+
+commands:
+     kill:
+         usage: /<command> 
+         description: Kills Command Sender
